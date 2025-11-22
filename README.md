@@ -44,5 +44,5 @@ The output is an **Interactive Dark-Mode Dashboard** (built with Plotly) that he
 4.  **Run the Pipeline:**
     ```bash
     python youtube_extractor.py  # Extracts data to csv
-    python dashboard_pro_dark_v2.py   # Generates the dashboard
+    python analyze_youtube.py   # Generates the dashboard
     ```
